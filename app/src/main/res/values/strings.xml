@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Reader</string>
+    <string name="et_username_hint">Login</string>
+    <string name="et_password_hint">Mot de passe</string>
+    <string name="btn_login_text">login</string>
+    <string name="mode_lecture_automatique">mode lecture automatique</string>
+    <string name="lecture_maintenant">faire une lecture des tags maintenant</string>
+    <string name="myoty">MyOty</string>
+    <string name="network_activity_hint">choix du network</string>
+    <string name="tour_activity_hint">choix de la tournée</string>
+    <string name="btn_send_reports_hint">renvoyer les rapports</string>
+    <string name="tv_scan_log_title_text">messages :</string>
+    <string name="OK">OK</string>
+    <string name="version_name">1.6.2ls</string>
+    <string name="akensys_logo_desc">akensys logo</string>
+    <string name="btn_stop_and_log_out_txt">tout arrêter et se déconnecter</string>
+    <string name="activer_mode_lecture_automatique">démarrer le mode lecture automatique</string>
+    <string name="desactiver_mode_lecture_automatique">arrêter le mode lecture automatique</string>
+    <string name="autoriser">autoriser</string>
+    <string name="reglage">réglage</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
